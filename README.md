@@ -1,1 +1,1 @@
-# Order_Bound_of_Genelized_Reed_Muller_Code
+# Order_Bound_of_Random_Basis_Reed_Muller_Code
