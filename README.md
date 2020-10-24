@@ -32,3 +32,19 @@ cf.
 https://cecas.clemson.edu/~keyj/Key/chapterAp.pdf
 
 http://morpheo.inrialpes.fr/people/Boyer/Teaching/M2R/geoProj.pdf
+
+全然簡単じゃなかったｗ（早くも死にそう）
+
+https://ia800700.us.archive.org/32/items/AlgebraicProjectiveGeometry/SempleKneebone-AlgebraicProjectiveGeometry.pdf
+
+何だかよくわからん
+
+http://www.math.boun.edu.tr/instructors/wdgillam/projgeo.pdf
+
+初等幾何みたいにはならないよな・・・。
+
+https://web.mat.upc.edu/simeon.michael.ball/IFG.pdf
+
+これが一番イメージに近いかも
+
+https://www.win.tue.nl/~ruudp/paper/29.pdf
