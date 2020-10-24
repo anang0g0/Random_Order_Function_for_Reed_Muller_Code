@@ -28,4 +28,7 @@ LDPC符号みたいに性能のいい符号の復号法も見つかるかもし�
 人マネのほうが結果が分っているだけあって安心だけど、マネじゃないほうがいい。
 マネじゃない事を祈る。
 
-cf.https://cecas.clemson.edu/~keyj/Key/chapterAp.pdf
+cf.
+https://cecas.clemson.edu/~keyj/Key/chapterAp.pdf
+
+http://morpheo.inrialpes.fr/people/Boyer/Teaching/M2R/geoProj.pdf
