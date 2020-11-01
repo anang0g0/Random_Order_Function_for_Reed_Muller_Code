@@ -29,6 +29,12 @@ LDPC符号みたいに性能のいい符号の復号法も見つかるかもし�
 マネじゃない事を祈る。
 
 cf.
+https://arxiv.org/pdf/2002.03317.pdf
+
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.440&rep=rep1&type=pdf
+
+
+
 https://cecas.clemson.edu/~keyj/Key/chapterAp.pdf
 
 http://morpheo.inrialpes.fr/people/Boyer/Teaching/M2R/geoProj.pdf
