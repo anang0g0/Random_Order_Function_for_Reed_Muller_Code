@@ -62,6 +62,8 @@ https://cecas.clemson.edu/~keyj/Key/chapterAp.pdf
 
 http://morpheo.inrialpes.fr/people/Boyer/Teaching/M2R/geoProj.pdf
 
+https://www.researchgate.net/publication/281956646_Codes_and_finite_geometries
+
 全然簡単じゃなかったｗ（早くも死にそう）
 
 https://ia800700.us.archive.org/32/items/AlgebraicProjectiveGeometry/SempleKneebone-AlgebraicProjectiveGeometry.pdf
