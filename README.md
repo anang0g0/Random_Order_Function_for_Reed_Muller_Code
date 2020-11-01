@@ -33,7 +33,7 @@ https://arxiv.org/pdf/2002.03317.pdf
 
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.440&rep=rep1&type=pdf
 
-
+https://www.researchgate.net/publication/334899262_Generalized_Subspace_Subcodes_With_Application_in_Cryptology/link/5d44a1ad92851cd0469c2161/download
 
 https://cecas.clemson.edu/~keyj/Key/chapterAp.pdf
 
