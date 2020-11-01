@@ -1,4 +1,4 @@
-# Subspace-Subcode-for-Encryption
+# SS4E
 
 # 20201101
 
