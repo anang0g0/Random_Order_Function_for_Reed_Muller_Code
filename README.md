@@ -1,5 +1,14 @@
 # SS4E
 
+
+#　20201218
+
+http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0786-02.pdf
+
+http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0802-08.pdf
+
+http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf
+
 # 20201101
 
 何だか漠然としたタイトルになってしまいましたが、鍵となるのは復号法を構成することだと言えそう。
