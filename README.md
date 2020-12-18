@@ -9,6 +9,12 @@ http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0802-08.pdf
 
 http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf
 
+グレブナー基底１
+
+グレブナー基底２
+
+体とガロア理論
+
 # 20201101
 
 何だか漠然としたタイトルになってしまいましたが、鍵となるのは復号法を構成することだと言えそう。
