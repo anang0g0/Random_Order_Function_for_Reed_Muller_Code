@@ -7,6 +7,8 @@ http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0786-02.pdf
 
 http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0802-08.pdf
 
+http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0820-18.pdf
+
 http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf
 
 グレブナー基底１
@@ -14,6 +16,10 @@ http://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf
 グレブナー基底２
 
 体とガロア理論
+
+「まず符号とは群である」。この一言でこのテーマをやろうと決めた。
+
+まず最初に具体例を作って生成行列から符号化を行い、復号関数を決めたい。
 
 # 20201101
 
