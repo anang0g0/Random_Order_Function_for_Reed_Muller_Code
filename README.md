@@ -4,6 +4,8 @@
 
 課題：環上の加群、自由分解の理解、グレブナ―基底
 
+新しい符号の属を作ることになるんだろうけど、これが暗号に使えるかどうかは未知数。
+
 # 20201218
 
 http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/0786-02.pdf
