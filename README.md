@@ -1,5 +1,7 @@
 # SS4E
 
+p=8191 @ Wild Niederreiter code based cryptography (20201228)
+
 # 20201228
 
 来年の目標：RS符号やRM符号から符号の行を取り除くと、その符号は復号できるのか？
