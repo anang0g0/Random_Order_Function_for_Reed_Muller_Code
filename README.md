@@ -1,6 +1,6 @@
 # SS4E
 
-p=8191 @ Wild Niederreiter code based cryptography (20201228)
+p=8191 @ Wild Niederreiter code based cryptography (20201228) 勢いと思いつき。
 
 # 20201228
 
