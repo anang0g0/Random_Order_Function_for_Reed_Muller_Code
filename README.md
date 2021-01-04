@@ -1,9 +1,6 @@
 # SS4E
 
 
-# 20200104
-
-https://cr.yp.to/codes/wild-20100721.pdf
 
 # 20201228
 
