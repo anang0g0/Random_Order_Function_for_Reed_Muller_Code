@@ -1,6 +1,9 @@
 # SS4E
 
-p=8191 @ Wild Niederreiter code based cryptography (20201228) 勢いと思いつき。
+
+# 20200104
+
+https://cr.yp.to/codes/wild-20100721.pdf
 
 # 20201228
 
